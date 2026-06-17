@@ -30,6 +30,3 @@ Currently, I am:
 * 💼 LinkedIn: https://linkedin.com/in/peraya-lsc
 * 💻 GitHub: https://github.com/MTPeraya
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/MPer?theme=unicorn&font=Mina&colors=colors%3Dfff5f8%2Cffe4ec%2C2b2b2b%2C5a4a52%2Cff4d8d%2Cff6fa5%2Cff8fb8%2Cffc1d6&ext=heatmap)
-
-
